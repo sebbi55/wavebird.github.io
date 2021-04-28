@@ -1,0 +1,5 @@
+.controller.gc {
+    background: url(gc-assets/base.svgz) no-repeat;
+    height: 837px;
+    width: 978px;
+}
